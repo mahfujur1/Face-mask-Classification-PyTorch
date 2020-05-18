@@ -26,7 +26,7 @@ We freeze the weights for the entire network except for the final fully connecte
 ### :+1: Results by Finetuning the convnet 
 ![](./images/3.PNG)
 #### Classwise accuracy
-![](./images/4.PNG)
+![](./images/c.PNG)
 ### :+1: Results by ConvNet as a fixed feature extractor
 ![](./images/5.PNG)
 #### Classwise accuracy
