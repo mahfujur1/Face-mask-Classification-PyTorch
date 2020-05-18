@@ -2,7 +2,8 @@
 ### This code is tested on PyTorch=0.4.1
 
 ## :+1: Download Data
-https://drive.google.com/open?id=1JkFqOaG5ucUviq5phZaoL66br2hEj-nH
+
+You can download ***Mask Classifier*** dataset from [here](https://drive.google.com/open?id=1JkFqOaG5ucUviq5phZaoL66br2hEj-nH) and then save it into a folder name ```data/```
 
 In this repo, I am going to apply transfer learning in two ways to classify the mask image.
 
