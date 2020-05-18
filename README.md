@@ -26,3 +26,6 @@ We freeze the weights for the entire network except for the final fully connecte
 ![](./images/5.PNG)
 #### Classwise accuracy
 ![](./images/6.PNG)
+
+## Sample images
+![](./images/1.PNG)
