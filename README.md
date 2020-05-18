@@ -19,4 +19,4 @@ We freeze the weights for the entire network except for the final fully connecte
 https://drive.google.com/open?id=1JkFqOaG5ucUviq5phZaoL66br2hEj-nH
 
 ### Results by Finetuning the convnet 
-![](./data/3.PNG)
+![](./images/3.PNG)
