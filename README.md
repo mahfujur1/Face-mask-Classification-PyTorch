@@ -1,5 +1,5 @@
 # Transfer Learning for Face-mask Classification using PyTorch
-### This code is tested on PyTorch==0.4.1
+### This code is tested on PyTorch=0.4.1
 
 ## What is Treansfer Learning ?
 
