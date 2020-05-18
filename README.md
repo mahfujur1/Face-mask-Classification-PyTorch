@@ -18,5 +18,11 @@ We freeze the weights for the entire network except for the final fully connecte
 ## :+1: Download Data
 https://drive.google.com/open?id=1JkFqOaG5ucUviq5phZaoL66br2hEj-nH
 
-### Results by Finetuning the convnet 
+### :+1: Results by Finetuning the convnet 
 ![](./images/3.PNG)
+#### Classwise accuracy
+![](./images/4.PNG)
+### :+1: Results by ConvNet as a fixed feature extractor
+![](./images/5.PNG)
+#### Classwise accuracy
+![](./images/6.PNG)
