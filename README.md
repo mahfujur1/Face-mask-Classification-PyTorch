@@ -33,4 +33,4 @@ We freeze the weights for the entire network except for the final fully connecte
 ![](./images/6.PNG)
 
 ### Visualizing the model predictions
-![](./images/2.PNG)
+![](./images/2.png)
