@@ -1,6 +1,9 @@
 # Transfer Learning for Face-mask Classification using PyTorch
 ### This code is tested on PyTorch=0.4.1
 
+## :+1: Download Data
+https://drive.google.com/open?id=1JkFqOaG5ucUviq5phZaoL66br2hEj-nH
+
 In this repo, I am going to apply transfer learning in two ways to classify the mask image.
 
 ## :+1: What is Treansfer Learning ?
@@ -14,9 +17,6 @@ Instead of random initialization, we initialise the network with a pre-trained n
 
 ### :+1: ConvNet as a fixed feature extractor
 We freeze the weights for the entire network except for the final fully connected layer. This last fully connected layer is replaced by a new one with random weights and only this layer is trained.
-
-## :+1: Download Data
-https://drive.google.com/open?id=1JkFqOaG5ucUviq5phZaoL66br2hEj-nH
 
 ### :+1: Results by Finetuning the convnet 
 ![](./images/3.PNG)
