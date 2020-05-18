@@ -1,6 +1,6 @@
 # Transfer Learning for Face-mask Classification using PyTorch
 
-In this repo, I am going to apply transfer learning in two ways to classify the mask image.
+In this repo, I am going to apply transfer learning in two ways for face-mask classification.
 
 ### This code is tested on PyTorch=0.4.1
 
